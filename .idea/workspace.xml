@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../cloudnativejava/routing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/aop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/compareboot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/front-validate-problem" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/intellij-debugging" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/intellij-h2-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/intellij-tip-regex-replacement" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/jpa-entity-graph" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/jpa-multi-depth" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/mockito-spy-usages" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/my-junit" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/spring-batch-mock-reader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/spring-cache" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/spring-security-authority" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/spring-validation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/spring-yml-import" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/springboot-batch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/springboot-data-redis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/springboot-jpa-id" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/springboot-redis-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/springboot-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../blog-code/swagger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../gradlespring" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../gs-accessing-data-jpa" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../intellij-development" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../jwp-spring-boot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../morphia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../spring-boot-redis" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../springboot-rest-docs-spock" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../test/kna-dev-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="309" />
+    <option name="y" value="129" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpringDataRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-data-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.javasampleapproach.redis.SpringDataRedisApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
